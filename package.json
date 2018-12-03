@@ -1,0 +1,10 @@
+{
+  "name": "target-sum-game",
+  "version": "1.0.0",
+  "description": "Target Sum game - built with React",
+  "main": "index.js",
+  "repository": "git@github.com:marks2508/Target-Sum-Game-React.git",
+  "author": "Mark Scicluna",
+  "license": "MIT",
+  "private": true
+}
